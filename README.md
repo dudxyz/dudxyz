@@ -5,7 +5,6 @@
 * 🌱 I’m currently learning Java.
 
 ![dudxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudxyz&show_icons=true&theme=radical)
-[![dudxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudxyz)](https://github.com/dudxyz/github-readme-stats)
 
 <!---
 dudxyz/dudxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
