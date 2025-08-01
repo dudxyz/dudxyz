@@ -1,7 +1,6 @@
 ### Hello World! I'm Eduarda Mascarenhas.  <img src="https://github.com/dudxyz/dudxyz/blob/main/files/kirby-wave.gif" width="29px">
   
 <img src="https://github.com/dudxyz/dudxyz/blob/main/files/hello-kitty-donut-hello-kitty.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/dudxyz"> <img src="https://github.com/dudxyz/dudxyz/blob/main/files/snoopy-esnupi.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🎓 Computer Engineering student at the Federal University of Sergipe (UFS), Brazil..
   - 🌱 I’m currently learning Natural Language Processing and Fundaments of Quantum Computing.
