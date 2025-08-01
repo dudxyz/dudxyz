@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F72C97&width=435&lines=Hello+World!+I'm+Eduarda+Mascarenhas." alt="Typing SVG" /></a>  <img src="https://github.com/dudxyz/dudxyz/blob/main/files/kirby-wave.gif" width="60px">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF86A6&width=435&lines=Hello+World!+I'm+Eduarda.)](https://git.io/typing-svg) <img src="https://github.com/dudxyz/dudxyz/blob/main/files/kirby-wave.gif" width="60px">
   
 <img src="https://github.com/dudxyz/dudxyz/blob/main/files/hello-kitty-donut-hello-kitty.gif" alt="side Image" align="right" width="200" height="auto" />
   
