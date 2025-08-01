@@ -26,6 +26,6 @@
   <code><img height="40" src="https://raw.githubusercontent.com/dudxyz/dudxyz/refs/heads/main/files/pandas.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/dudxyz/dudxyz/refs/heads/main/files/matplotlib.png"></code>
   
-  ![dudxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudxyz&show_icons=true&theme=github_dark)
+  ![dudxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudxyz&show_icons=true&theme=github_panda)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudxyz&layout=compact)](https://github.com/dudxyz/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/dudxyz/dudxyz/blob/main/files/pink-transparent.gif" width="195">
   
