@@ -2,10 +2,10 @@
   
 <img src="https://github.com/dudxyz/dudxyz/blob/main/files/hello-kitty-donut-hello-kitty.gif" alt="side Image" align="right" width="200" height="auto" />
   
-  - 🎓 Computer Engineering student at the Federal University of Sergipe (UFS), Brazil..
+  - 🎓 Computer Engineering student at the Federal University of Sergipe (UFS), Brazil.
   - 🌱 I’m currently learning Natural Language Processing and Fundaments of Quantum Computing.
   - 📖 Researcher in Simulation of Quantum Algorithms and Natural Language Processing.
-  - 🌷 Pronouns: She / Her
+  - 🌷 Pronouns: She / Her.
   - 💻 Experience coding in C/C++, Java and Python.
   
   #### 📫 How to reach me:
