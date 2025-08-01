@@ -1,4 +1,4 @@
-### Hello World! I'm Eduarda Mascarenhas.  <img src="https://github.com/dudxyz/dudxyz/blob/main/files/kirby-wave.gif" width="29px">
+### Hello World! I'm Eduarda Mascarenhas.  <img src="https://github.com/dudxyz/dudxyz/blob/main/files/kirby-wave.gif" width="35px">
   
 <img src="https://github.com/dudxyz/dudxyz/blob/main/files/hello-kitty-donut-hello-kitty.gif" alt="side Image" align="right" width="200" height="auto" />
   
