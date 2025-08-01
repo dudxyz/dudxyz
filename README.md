@@ -5,14 +5,14 @@
   - 🎓 Computer Engineering student at the Federal University of Sergipe (UFS), Brazil..
   - 🌱 I’m currently learning Natural Language Processing and Fundaments of Quantum Computing.
   - 📖 Researcher in Simulation of Quantum Algorithms and Natural Language Processing.
-  - 🔖 Pronouns: She / Her
+  - 🌷 Pronouns: She / Her
   - 💻 Experience coding in C/C++, Java and Python.
   
   #### 📫 How to reach me:
   
 [<img src="https://github.com/dudxyz/dudxyz/blob/main/files/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/eduarda-mascarenhas/?locale=en_US) &nbsp; <a href="mailto:mascarenhas.com@gmail.com"> <img src="https://github.com/dudxyz/dudxyz/blob/main/files/gmail-new.png" width="3.5%"/>
   
-  #### 👨🏻‍💻 Languages and Tools <br />
+  #### 👩‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/dudxyz/dudxyz/refs/heads/main/files/c.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/dudxyz/dudxyz/refs/heads/main/files/cpluspls.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/dudxyz/dudxyz/refs/heads/main/files/phyton.png"></code>
